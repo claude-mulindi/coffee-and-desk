@@ -1,2 +1,2 @@
 # coffee-and-desk
-The best cofee shops around you for getting work done.
+The best coffee shops around you for getting work done.
